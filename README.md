@@ -1,21 +1,12 @@
-# Zendesk PHP API Client Library #
+# Zendesk PHP API Client Library - Maintained By Townsend Music Dev Team #
 
-[![Build Status](https://travis-ci.org/zendesk/zendesk_api_client_php.svg?branch=master)](https://travis-ci.org/zendesk/zendesk_api_client_php)
-[![Latest Stable Version](https://poser.pugx.org/zendesk/zendesk_api_client_php/v/stable)](https://packagist.org/packages/zendesk/zendesk_api_client_php)
-[![Total Downloads](https://poser.pugx.org/zendesk/zendesk_api_client_php/downloads)](https://packagist.org/packages/zendesk/zendesk_api_client_php)
-[![Code Climate](https://codeclimate.com/github/zendesk/zendesk_api_client_php/badges/gpa.svg)](https://codeclimate.com/github/zendesk/zendesk_api_client_php)
-[![License](https://poser.pugx.org/zendesk/zendesk_api_client_php/license)](https://packagist.org/packages/zendesk/zendesk_api_client_php)
-
-## API Client Version
-
-This is the second version of our PHP API client. The previous version of the API client can be found on the [v1 branch](https://github.com/zendesk/zendesk_api_client_php/tree/v1).
 
 ## API version support
 
 This client **only** supports Zendesk's API v2.  Please see our [API documentation](http://developer.zendesk.com) for more information.
 
 ## Requirements
-* PHP 5.5+
+* PHP 7.2+
 
 ## Installation
 
