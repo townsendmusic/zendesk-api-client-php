@@ -417,7 +417,7 @@ class HttpClient
      *
      * @return HttpClient
      */
-    public function setSideload(array $fields = null)
+    public function setSideload(?array $fields = null)
     {
         $this->sideload = $fields;
 
